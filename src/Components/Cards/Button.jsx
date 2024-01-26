@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import ExpenseForm from "./ExpenseForm";
+import ExpenseForm from "../ExpenseForm";
 
 const Btn = () => {
   const [showForm,setShowForm]=useState(false)
