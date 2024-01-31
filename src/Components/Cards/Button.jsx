@@ -6,7 +6,7 @@ const Btn = () => {
   const handleBtnClick=()=>setShowForm(!showForm)
 
   return (
-    <div className="flex items-center justify-center h-screen bg-slate-200">
+    <div className="flex items-center justify-center h-screen">
       
       
          {
